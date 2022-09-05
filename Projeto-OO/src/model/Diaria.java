@@ -24,6 +24,7 @@ public class Diaria extends Acesso {
     @Override
     public double calculaValorAcesso() {
         return 0;
+       
     }
 
     @Override

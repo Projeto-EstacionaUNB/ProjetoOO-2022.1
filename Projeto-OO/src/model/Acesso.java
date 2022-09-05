@@ -85,4 +85,5 @@ public abstract class Acesso {
                 ", veiculoCliente=" + veiculoCliente +
                 '}';
     }
+    
 }

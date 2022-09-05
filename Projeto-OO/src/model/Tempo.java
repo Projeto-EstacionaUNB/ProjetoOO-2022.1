@@ -30,8 +30,7 @@ public class Tempo extends Acesso {
     }
 
     // Alterar para o calculo certo, passar a atividade para o Danilo ou o Paulo
-    @Override
-    public double calculaValorAcesso() {
+    public double calculaValorAcesso(String horaEntrada, String horaSaida, String dataInicial, String dataFinal, Veiculo veiculoCliente, double valorFracao, int desconto) {
         return 0;
     }
 
